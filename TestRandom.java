@@ -28,6 +28,7 @@ public  class  TestRandom {
 			System.out.println("> 0.5:  " + greater + " times");
 			System.out.println("<= 0.5:  " + lessOrEqual + " times");
 			System.out.println("Ratio  " + (double) greater/ lessOrEqual);
+
 		}
 	}
 }
